@@ -4,7 +4,7 @@
 Inspiration [FrontendMentor](https://www.frontendpro.dev/frontend-coding-challenges/star-rating-component-geShE1ApkqUoNCqujxOd).
 
 
-## Demo: [link here](https://markopersonally.github.io/stars-rating/)
+## Demo: [link here](https://m4rcin7.github.io/stars-rating/)
 
 
 
@@ -25,6 +25,6 @@ Inspiration [FrontendMentor](https://www.frontendpro.dev/frontend-coding-challen
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/markopersonally/stars-rating.git
+  git clone https://github.com/m4rcin7/stars-rating.git
 ```
     
